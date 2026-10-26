@@ -1,0 +1,22 @@
+{
+  "version": "1.1.0",
+  "society": "SOCIEDAD FICTICIA X, S.L.",
+  "orders": 427,
+  "invoices": 2239,
+  "projects": 3916,
+  "cecos": 277,
+  "matched_pos": 310,
+  "matched_invoices": 378,
+  "no_invoice_pos": 117,
+  "no_po_invoices": 1861,
+  "exception_count": 248,
+  "high_priority": 81,
+  "duplicity_flags": 28,
+  "date_checks": 313,
+  "invoice_total": 23929493.83,
+  "order_total": 8822666.7,
+  "linked_invoice_total": 6044503.82,
+  "allocated_invoice_total": 6044503.82,
+  "output": "P2P_AUDIT_2026.xlsx",
+  "engine": "openpyxl"
+}
